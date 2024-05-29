@@ -3,5 +3,6 @@ public class Ternary {
         int a = 10;
         String isEven = (a%2==0) ? ("is even.") : ("is odd.");
         System.out.println("The string " + isEven); 
+        
     }
 }
